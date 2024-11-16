@@ -1,7 +1,7 @@
 package Java_8_Feature;
 /*
  * Lambda Expression
- * anonomous
+ * anonomous 
  * name less method in java
  * Lambda expression is used with only functional interface only
  * 
@@ -20,7 +20,6 @@ interface MyFunctionalInterface2
 	int findSquare(int num);
 	
 }
-
 
 
 public class LambdaExpressionJava_8_Feature {
